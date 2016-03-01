@@ -125,6 +125,8 @@ span{
   padding-top: 25px;
   background-color: #f9e42e;
   text-align: center;
+  position: relative;
+  right: 24px;
 }
 #bottom_h2{
   margin-top: 0;
